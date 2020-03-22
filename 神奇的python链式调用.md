@@ -26,7 +26,8 @@ name1 和 11
 ## __call__方法
 我们知道实例化一个class后，产生实例s，可以通过s.methodName()这种方式调用类中定义的方法。
 在python中，可以通过实现__call__(self,*args,**kw)方法，直接调用实例，类似于s(),，此时s是一个callable对象，可以通过callable(s)进行判断，输出为True。(__python中的类为啥开头不是大写呢__)
-此时对象和函数是一样的(**对象和函数可以看做一样的么?**)
+
+此时对象和函数是一样的([**对象和函数可以看做一样的么?**](./Python中函数和对象是本质是一样的么.md))
 ```python
 class Test(object):
     
@@ -66,3 +67,5 @@ if __name__ == '__main__':
     /users/list
     '''
 ```
+#
+才疏学浅，请指正~
