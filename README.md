@@ -9,6 +9,9 @@ Java
 [过滤器和拦截器的比较](./过滤器和拦截器的区别.md)  
 [一文告诉你@ModelAttribute怎么用](./@ModelAttribute怎么用.md)
 
+设计模式  
+[命令模式](./命令模式.md)
+
 Python  
 [定制类，实现链式调用](./神奇的python链式调用.md)  
 [Python中函数和对象本质一样么](./Python中函数和对象是本质是一样的么.md)
