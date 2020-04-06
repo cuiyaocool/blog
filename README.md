@@ -10,7 +10,8 @@ Java
 [一文告诉你@ModelAttribute怎么用](./@ModelAttribute怎么用.md)
 
 设计模式  
-[命令模式](./命令模式.md)
+[命令模式](./命令模式.md)  
+[中介者模式](./中介者模式.md)
 
 Python  
 [定制类，实现链式调用](./神奇的python链式调用.md)  
