@@ -18,3 +18,6 @@ Python
 [Python中函数和对象本质一样么](./Python中函数和对象是本质是一样的么.md)
 
 
+工具  
+[IDEA配置Copyright](./IDEA配置Copyright.md)
+
