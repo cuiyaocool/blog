@@ -21,3 +21,5 @@ Python
 工具  
 [IDEA配置Copyright](./IDEA配置Copyright.md)
 
+[Hash冲突解决方法](./Hash冲突解决.md)
+
