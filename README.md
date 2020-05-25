@@ -21,5 +21,9 @@ Python
 工具  
 [IDEA配置Copyright](./IDEA配置Copyright.md)
 
-[Hash冲突解决方法](./Hash冲突解决.md)
+[Hash冲突解决方法](./Hash冲突解决.md)   
+
+
+其他   
+[一些链接](./他山之石.md)
 
