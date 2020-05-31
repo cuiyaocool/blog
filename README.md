@@ -7,7 +7,8 @@ Java
 
 [你说的对，我没用过枚举](./你说的对，我没用过枚举.md)    
 [过滤器和拦截器的比较](./过滤器和拦截器的区别.md)  
-[一文告诉你@ModelAttribute怎么用](./@ModelAttribute怎么用.md)
+[一文告诉你@ModelAttribute怎么用](./@ModelAttribute怎么用.md)  
+[百亿交易额背后的缓存架构](./百亿交易额背后的缓存架构.md)
 
 设计模式  
 [命令模式](./命令模式.md)  
