@@ -24,6 +24,7 @@ Python
 
 工具  
 [IDEA配置Copyright](./IDEA配置Copyright.md)
+[Lombok学习](./Lombok.md)
 
 [Hash冲突解决方法](./Hash冲突解决.md)   
 
