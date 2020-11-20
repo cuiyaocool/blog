@@ -32,3 +32,8 @@ Python
 其他   
 [一些链接](./他山之石.md)
 
+
+文章收藏  
+[CompletableFuture的讲解](http://mp.weixin.qq.com/s?__biz=MzI4ODQ3NjE2OA==&mid=2247487772&idx=1&sn=e702eb6fb8ea8e279c7dc520e38207da&chksm=ec3c8c7bdb4b056d721316e409dac404ffb74da9118b08248e764e519a0cd2c2ea5725fcc012&mpshare=1&scene=24&srcid=0805kHAIOighZU6OlqihIOMp&sharer_sharetime=1596640927337&sharer_shareid=954a56b65bef691f9888434c3d43c841#rd)  
+[非常实用的java技巧](https://mp.weixin.qq.com/s/NDgUqfulQmfx7EyPnmFSHA)：对代码精益求精，不断重构  
+[DCL为什么还需要加volatile关键字](https://blog.csdn.net/weixin_38106322/article/details/105753241):创建对象的过程中，用volatile禁止指令重排
